@@ -1,5 +1,3 @@
-#Simone Susino - D18124815
-
 import psycopg2
 import yaml
 from sys import stderr, argv
