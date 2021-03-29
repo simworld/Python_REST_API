@@ -1,0 +1,5 @@
+databases:
+  lab2:
+    host: cmpu3055-lab2.postgres.database.azure.com
+    user: lab2@cmpu3055-lab2
+    password: Letmein3055
