@@ -1,5 +1,5 @@
 databases:
-  lab2:
+  db_name:
     host: db_host_link
     user: db_username
     password: db_password
